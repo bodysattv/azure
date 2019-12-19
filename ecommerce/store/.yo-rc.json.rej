@@ -1,0 +1,22 @@
+diff a/ecommerce/store/.yo-rc.json b/ecommerce/store/.yo-rc.json	(rejected hunks)
+@@ -9,4 +9 @@
+-    "languages": [
+-      "en",
+-      "fr"
+-    ],
++    "languages": ["en", "fr"],
+@@ -22,3 +19 @@
+-    "testFrameworks": [
+-      "protractor"
+-    ],
++    "testFrameworks": ["protractor"],
+@@ -46,6 +41,2 @@
+-  "entities": [
+-    "Invoice",
+-    "Shipment",
+-    "Notification"
+-  ]
+-}
+\ No newline at end of file
++  "entities": ["Invoice", "Shipment", "Notification"]
++}
